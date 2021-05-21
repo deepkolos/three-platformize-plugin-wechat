@@ -29,6 +29,10 @@ const { THREE, WechatPlatform, GLTFLoader, OrbitControls } =
 
 目前仅仅集成了常用的`GLTFLoader`和`OrbitControls`，如果有其他 Loader 需求则需要手动注册到所导出的`THREE`里，可使用自行编写 rollup plugin 实现
 
+# TODO
+
+0. 增加 scope, 支持多个 WebGL1Renderer 同时存在
+
 # 赞助
 
 如果项目对您有帮助或者有适配需求，欢迎打赏
