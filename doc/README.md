@@ -1,7 +1,7 @@
 # three-platformzie-plugin-wechat
 
 [three-platformzie](https://github.com/deepkolos/three-platformize) 的微信小程序插件，方便跨组件，跨小程序，跨插件使用
-比如 3D 插件使用了此插件, AR 插件也使用了此插件, three 的代码就可已复用了
+比如 3D 插件使用了此插件, AR 插件也使用了此插件, three 的代码就可以复用了
 
 ## 使用
 
