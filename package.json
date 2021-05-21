@@ -1,0 +1,31 @@
+{
+  "name": "manimage",
+  "version": "1.0.0",
+  "description": "序列帧小程序插件",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "dev": "rollup -c -w",
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "three",
+    "three-platformize",
+    "miniprogram",
+    "wechat"
+  ],
+  "author": "DeepKolos<ouyanghaozhu@oppentech.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "@types/wechat-miniprogram": "^3.3.0",
+    "three-platformize": "^1.0.22"
+  },
+  "dependencies": {
+    "rollup": "^2.48.0",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}

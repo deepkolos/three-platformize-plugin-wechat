@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "plugins": {
+    "three-platformize": {
+      "version": "dev",
+      "provider": "wxc28f248739f71667"
+    }
+  },
+  "sitemapLocation": "sitemap.json"
+}
